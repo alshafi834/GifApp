@@ -1,0 +1,16 @@
+.random-gif {
+  width: 40%;
+  text-align: center;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.random-gif button {
+  padding: 10px;
+  background-color: rgb(27, 224, 149);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
